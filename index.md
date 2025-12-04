@@ -1,7 +1,7 @@
 ---
 layout: single
 author_profile: true
-title: "Sofia Wilson"
+title: ""
 ---
 
 
