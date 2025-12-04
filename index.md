@@ -13,6 +13,7 @@ Before Stanford, I worked in the education sector for more than a decade, as an 
 
 Get in touch at sofia.wilson@stanford.edu -- I'm happy to discuss my research, prior work experience in schools, edtech, or early childhood nonprofits, as well as my experience as a PhD student at Stanford.
 
+
 Works In Progress
 ------------
 
