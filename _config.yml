@@ -25,9 +25,11 @@ author:
   avatar           : "profile.png"
   name             : "Sofia Wilson"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. Candidate  
-Stanford University  
-Graduate School of Education"
+  bio              : |
+  Ph.D. Candidate  
+  Stanford University  
+  Graduate School of Education
+
   location         : "Stanford, CA"
   employer         : ""
   uri              : # URL
