@@ -22,9 +22,9 @@ repository               : "sofia-wilson/sofia-wilson.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"   # make sure /images/profile.png exists
+  avatar           : "headshot.jpg"  
   name             : "Sofia Wilson"
-  pronouns         : "she/her"
+  pronouns         : ""
   bio              : "Ph.D. Candidate at Stanford University"
   location         : "Stanford, CA"
   employer         : ""
