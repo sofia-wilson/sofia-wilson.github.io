@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "defaußlt"
+site_theme               : "default"
 title                    : "Sofia Wilson"
 title_separator          : "-"
 name                     : &name "Sofia Wilson"
