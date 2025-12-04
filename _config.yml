@@ -24,13 +24,12 @@ author:
   # Biographic information
   avatar           : "headshot.jpg"  
   name             : "Sofia Wilson"
-  pronouns         : ""
+  pronouns         : 
   bio              : "Ph.D. Candidate at Stanford University"
   location         : "Stanford, CA"
-  employer         : ""
+  employer         : "Stanford University"
   uri              : ""
   email            : "sofia.wilson@stanford.edu"
-
 
   # Academic websites
 
