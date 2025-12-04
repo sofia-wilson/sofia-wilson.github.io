@@ -25,10 +25,7 @@ author:
   avatar           : "profile.png"   # make sure /images/profile.png exists
   name             : "Sofia Wilson"
   pronouns         : "she/her"
-  bio              : |
-    Ph.D. Candidate  
-    Stanford University  
-    Graduate School of Education
+  bio              : "Ph.D. Candidate at Stanford University"
   location         : "Stanford, CA"
   employer         : ""
   uri              : ""
