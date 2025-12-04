@@ -1,0 +1,5 @@
+/* Remove footer */
+.page__footer,
+.site-footer {
+  display: none !important;
+}
