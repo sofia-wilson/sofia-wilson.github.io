@@ -15,18 +15,15 @@ author_profile: true
 ## Works In Progress
 
 **Recent Trends in Educational Achievement Gender Gaps**
-
 *(with sean reardon, Sadie Richardson)*  
 - Girls’ test scores, particularly in math, fell more than boys’ scores during the pandemic, a pattern evident in NAEP data, in state assessment data, and in international assessments. We investigate the patterns of these declines using 15 years’ of test score data from 7000 U.S. school districts. We find that changes in math and reading gender gaps during the pandemic varied substantially across school districts. Girls’ scores declined much more than boys’ scores in communities with fewer economic, social, and educational resources and in communities where the impact of the pandemic was most severe – communities where schools were closed longer, where social interactions were more limited, and where COVID death rates were high. In more advantaged communities and those where the pandemic had less impact, gender gaps were largely unchanged on average. These patterns suggest ways that gendered social norms and expectations may interact with social crises and disruptions to exacerbate gender disparities in educational outcomes.
 - **Invited talks:** Havard's PIER Public Seminar (presenter: sean reardon)
 - **Media Coverage:** [Havard Gazette](https://news.harvard.edu/gazette/story/2025/11/girls-fell-further-behind-in-math-during-after-pandemic/)
     
 **The Programme for International Student Assessment and the Dynamics of Education Reform Across 155 Countries, 1990-2018**
-
 *(with Marcia Yang, Patricia Bromley, and sean reardon)*
 - PISA is often assumed to spur education reform, particularly in lower-performing countries. Germany’s “PISA shock” and subsequent reforms after surprisingly poor performance on the 2000 assessment is a classic example. Yet several other countries with similarly lackluster results do not pursue significant reforms. Using data from 155 countries between 1990 and 2018, we provide the first large-scale quantitative analysis of how PISA’s introduction relates to K–12 policy activity.
 
 **Geographic Variation in US Early Childhood Opportunities and Skills at School Entry**
-
 *(with Sadie Richardson, sean reardon)*  
 - We build a novel multi-state dataset of population-level kindergarten readiness assessment data and leverage these data to describe local variation and trends in early skills. We document substantial variation in readiness across school districts and strong associations between average readiness and community characteristics (particularly socioeconomic status). We also track changes over the past decade, highlighting pandemic-related declines in early skill and the uneven distribution of pandemic impacts across communities.
