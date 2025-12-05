@@ -9,7 +9,7 @@ author_profile: true
 
 **The Effect of Universal Public Pre-K on Public School Enrollment: Evidence from Washington, D.C.**  
 - **Abstract:** Little is known about whether universal pre-K (UPK) expansions affect public school system enrollment at scale. This study uses 25 years of population-level data from Washington, D.C. (1999–2023) to estimate the impact of UPK on public K–5 enrollment. D.C.’s UPK increased public kindergarten enrollment by 20% relative to a synthetic control of comparable school systems, with effects growing over time. The expansion attracted more families into the public system, increasing kindergarten participation among eligible children by 10 percentage points at implementation. D.C.’s universal pre-K program reversed more than a decade of enrollment decline, producing sustained system-wide growth. These findings demonstrate that large-scale early childhood investments can alter participation in public education systems—relevant as districts nationwide face post-pandemic enrollment declines and rising competition from school choice alternatives.
-- **Conference presentations:** Association of Public Policy and Management (2025); Association for Education Finance and Policy (*scheduled*  , 2026). 
+- **Conference presentations:** Association of Public Policy and Management (2025); Association for Education Finance and Policy (*scheduled*, 2026). 
 - **Internal talks:** Stanford Advanced Topics in Quantitative Policy Analysis workshop; Stanford Public Economics II workshop.  
 
 ## Works In Progress
