@@ -29,3 +29,4 @@ author_profile: true
 **Geographic Variation in US Early Childhood Opportunities and Skills at School Entry**
 
 *(with Sadie Richardson, sean reardon)*  
+- We build a novel multi-state dataset of population-level kindergarten readiness assessment data and leverage these data to describe local variation and trends in early skills. We document substantial variation in readiness across school districts and strong associations between average readiness and community characteristics (particularly socioeconomic status). We also track changes over the past decade, highlighting pandemic-related declines in early skill and the uneven distribution of pandemic impacts across communities.
