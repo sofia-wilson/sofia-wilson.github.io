@@ -29,7 +29,16 @@ author:
   location         : "Stanford, CA"
   employer         : "Stanford University"
   uri              : ""
-  email            : "sofia.wilson@stanford.edu"
+  links:
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:sofia.wilson@stanford.edu"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/sofia-wilson-47343327/"
+    - label: "🦋 Bluesky"
+      icon: "fab fa-bluesky"   # Bluesky has no native FA icon. Use globe instead.
+      url: "https://bsky.app/profile/sofia-wilson.bsky.social"
   
 
   # Academic websites
