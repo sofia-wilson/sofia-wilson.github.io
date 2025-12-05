@@ -13,7 +13,7 @@ title                    : ""
 title_separator          : "-"
 name                     : &name "Sofia Wilson"
 description              : &description ""
-url                      : "https://sofia-wilson.github.io/"
+url                      : "https://sofia-wilson.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sofia-wilson/sofia-wilson.github.io"
 
