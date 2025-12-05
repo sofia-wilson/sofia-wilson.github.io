@@ -1,18 +1,11 @@
 # Authors
 
-Name Name:
-  name        : "Name Name"
+Sofia Wilson:
+  name        : "Sofia Wilson"
   uri         : "http://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
+  email       : "sofia.wilson@stanford.edu"
+  bio         : "Ph.D. Candidate in Education Policy"
+  avatar      : "headshot.jpg"
+  linkedin    : "https://www.linkedin.com/in/sofia-wilson-47343327/"
+  bluesky     : "https://bsky.app/profile/sofia-wilson.bsky.social"
 
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
