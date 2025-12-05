@@ -27,7 +27,7 @@ author:
   bio              : "Ph.D. Candidate in Education Policy"
   location         : "Stanford, CA"
   employer         : "Stanford University"
-  links:
+links:
     - label: "Email"
       icon: "fas fa-envelope"
       url: "mailto:sofia.wilson@stanford.edu"
@@ -35,7 +35,7 @@ author:
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/sofia-wilson-47343327/"
     - label: "🦋 Bluesky"
-      icon: "fab fa-bluesky"   # Bluesky has no native FA icon. Use globe instead.
+      icon: ""   
       url: "https://bsky.app/profile/sofia-wilson.bsky.social"
 
   
