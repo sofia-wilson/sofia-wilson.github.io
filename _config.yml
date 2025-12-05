@@ -24,11 +24,9 @@ author:
   # Biographic information
   avatar           : "headshot.jpg"  
   name             : "Sofia Wilson"
-  pronouns         : ""
-  bio              : "Ph.D. Candidate at Stanford University"
+  bio              : "Ph.D. Candidate in Education Policy"
   location         : "Stanford, CA"
   employer         : "Stanford University"
-  uri              : ""
   links:
     - label: "Email"
       icon: "fas fa-envelope"
@@ -39,7 +37,7 @@ author:
     - label: "🦋 Bluesky"
       icon: "fab fa-bluesky"   # Bluesky has no native FA icon. Use globe instead.
       url: "https://bsky.app/profile/sofia-wilson.bsky.social"
-  
 
+  
   # Academic websites
 
