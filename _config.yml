@@ -27,18 +27,8 @@ author:
   bio              : "Ph.D. Candidate in Education Policy"
   location         : "Stanford, CA"
   employer         : "Stanford University"
-  links:
-    - label: "Email"
-      icon: "fas fa-envelope"
-      url: "mailto:sofia.wilson@stanford.edu"
-
-    - label: "LinkedIn"
-      icon: "fab fa-linkedin"
-      url: "https://www.linkedin.com/in/sofia-wilson-47343327/"
-
-    - label: "🦋 Bluesky"
-      icon: "fas fa-globe"   # placeholder icon
-      url: "https://bsky.app/profile/sofia-wilson.bsky.social"
+  linkedin         : "https://www.linkedin.com/in/sofia-wilson-47343327/"
+  bluesky          : "https://bsky.app/profile/sofia-wilson.bsky.social"
 
   
   # Academic websites
