@@ -7,7 +7,7 @@ author_profile: true
 
 ## Working Papers
 
-**Dee, T. and S. Wilson. (2025).** [The West Texas Measles Outbreak and Student Absences.](/files/ai25-1358.pdf) (EdWorkingPaper: 25-1358). Retrieved from Annenberg Institute at Brown University: https://doi.org/10.26300/050d-c145
+**Dee, T. and S. Wilson. (2025).** [The West Texas Measles Outbreak and Student Absences.](/files/ai25-1358.pdf) (EdWorkingPaper: 25-1358). Retrieved from Annenberg Institute at Brown University: [https://doi.org/10.26300/050d-c145](https://edworkingpapers.com/ai25-1358)
 
 ## In Progress
 
