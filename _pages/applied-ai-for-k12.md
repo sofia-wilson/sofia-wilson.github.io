@@ -5,8 +5,6 @@ permalink: /applied-ai-for-k12/
 author_profile: true
 ---
 
-## Applied AI for K12
-
 **Reproducible Claude Workflow for District Curriculum Adoption Processes**
 
 I serve on a local district Curriculum Adoption Committee. As part of that work, I spent time manually pulling together evidence on high-quality instructional materials (EdReports) and program effectiveness (Evidence for ESSA), and synthesizing what I found into something useful for our committee's decision-making.
@@ -24,8 +22,8 @@ Below I provide instructions on how to copy and paste a prompt into Claude to ge
 
 ### What It Does
 
-1. **Part 1:** Searches EdReports for curriculum alignment and usability ratings
-2. **Part 2:** Searches Evidence for ESSA for research studies meeting ESSA evidence standards
-3. **Part 3:** Generates vendor questions based on evidence gaps
+1. **Part 1:** Searches EdReports to assess whether instructional materials meet High-Quality Instructional Materials (HQIM) indicators. https://edreports.org/
+2. **Part 2:** Searches Evidence for ESSA to evaluate whether rigorous research demonstrates that a curriculum improves student outcomes. https://www.evidenceforessa.org/
+3. **Part 3:** Synthethisez findings and generates vendor questions based on evidence gaps
 
 *Note: This is a beta AI tool. Always verify findings using the source URLs provided.*
