@@ -10,4 +10,5 @@
 main:
   - title: "Research"
     url: /research/
-
+  - title: "Applied AI for K12"
+    url: /applied-ai-for-k12/
