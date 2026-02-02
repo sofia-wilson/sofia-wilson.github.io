@@ -7,13 +7,11 @@ author_profile: true
 
 **Reproducible Claude Workflow for District Curriculum Adoption Processes**
 
-I serve on a local district Curriculum Adoption Committee. As part of that work, I spent time manually pulling together evidence on high-quality instructional materials (EdReports) and program effectiveness (Evidence for ESSA), and synthesizing what I found into something useful for our committee's decision-making.
-
 Curriculum adoption is already a heavy lift, and digging into considerable research hours to find, distill, and synthesize technical reports or combining multiple sources of evaluation to a cohesive summary adds another layer of work that many districts might not have time or staff capacity for. At the same time, district leaders and educators crave evidence-backed data to guide this important curricular decision.
 
-So I built [this tool](https://claude.ai/public/artifacts/0b5c1c1c-2955-43e1-bff0-be3f2fbb1267) as a way to make the process more accessible. It's a reproducible workflow that uses Claude to search EdReports and Evidence for ESSA, synthesize the findings, and generate a report with critical questions to ask vendors—all in a few minutes instead of several hours.
+So I built [this tool](https://claude.ai/public/artifacts/0b5c1c1c-2955-43e1-bff0-be3f2fbb1267) as a way to make the process more accessible. It's a reproducible workflow that uses Claude to search EdReports and Evidence for ESSA, synthesize the findings, and generate a report with critical questions to ask vendors—all in a few minutes instead of several hours. It replicates a manual workflow I used when supporting a local district with evidence-based curriculum evaluations.
 
-Below I provide instructions on how to copy and paste a prompt into Claude to generate your own report. This is very much a beta project. Feel free to share with district leaders and educators. If you try it out and have feedback, I'd welcome it.
+Feel free to share with district leaders and educators. This is a beta project. If you try it out and have feedback, I'd welcome it.
 
 ### Resources
 
