@@ -20,10 +20,13 @@ author_profile: true
 
 ## In Progress
 
-**Wilson, S. (2025).** [The Effect of Universal Public Pre-K on Public School Enrollment: Evidence from Washington, D.C.](/files/Sofia%20Wilson_DC%20UPK%20Effects.pdf)
+**Wilson, S. (2026).** [The Effect of Universal Public Pre-K on Public School Enrollment: Evidence from Washington, D.C.](/files/Sofia%20Wilson_DC%20UPK%20Effects.pdf)
 - **Abstract:** Little is known about whether universal pre-K (UPK) expansions affect public school system enrollment at scale. This study uses 25 years of population-level data from Washington, D.C. (1999–2023) to estimate the impact of UPK on public K–5 enrollment. D.C.’s UPK increased public kindergarten enrollment by 20% relative to a synthetic control of comparable school systems, with effects growing over time. The expansion attracted more families into the public system, increasing kindergarten participation among eligible children by 10 percentage points at implementation. These findings demonstrate that large-scale early childhood investments can alter participation in public education systems—relevant as districts nationwide face post-pandemic enrollment declines and rising competition from school choice alternatives.
 - **Conference presentations:** Association of Public Policy and Management (2025); Association for Education Finance and Policy (*scheduled*, 2026). 
 - **Internal talks:** Stanford Advanced Topics in Quantitative Policy Analysis workshop; Stanford Public Economics II workshop. 
 
-**Richardson, S., Wilson, S., & Reardon, S. (2025).** [Trends and Geographic Variation in US Early Childhood Opportunities and Skills at School Entry](/files/kra.pdf)
+**Richardson, S., Wilson, S., & Reardon, S. (2026).** [Trends and Geographic Variation in US Early Childhood Opportunities and Skills at School Entry](/files/kra.pdf)
 - **Abstract:** We build a novel multi-state dataset of population-level kindergarten readiness assessment data and leverage these data to describe local variation and trends in early skills. We document substantial variation in readiness across school districts and strong associations between average readiness and community characteristics (particularly socioeconomic status). We also track changes over the past decade, highlighting pandemic-related declines in early skill and the uneven distribution of pandemic impacts across communities.
+
+**Stanford SCALE Initiative's AI Hub For Education (2026).** The State of AI in K12 Report.
+- **Abstract:** In partnership with researchers from Stanford SCALE Initiative's AI Hub For Education, we produce a high-quality report on the state of research on AI in K–12 education. The report highlights rigorous, causal evidence on AI's impact on teachers, students, and school systems, surfacing both promises and pitfalls. The broader goal is offering actionable insights for policy, purchasing, and pilot programs related to AI in K–12 education for education system leaders, edtech companies, and researchers worldwide.
